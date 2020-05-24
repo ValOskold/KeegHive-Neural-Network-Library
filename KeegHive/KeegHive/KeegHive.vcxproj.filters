@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Testbed for Neural Net">
+      <UniqueIdentifier>{b6a7607f-2ab0-4587-8c37-9e95a0528ca4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Testbed for Neural Net\nonSpecificFiles">
+      <UniqueIdentifier>{9ab1ba6b-d6d5-49ec-b2b2-1d81961b5378}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Testbed for Neural Net\Structure of OBJ">
+      <UniqueIdentifier>{37e007ae-0335-46ce-9baa-047d53f29a2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Testbed for Neural Net\Structure of OBJ\EMF aka NN deviders">
+      <UniqueIdentifier>{643b33ca-915d-44ad-b70d-6af9525796e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Testbed for Neural Net\Structure of OBJ\EMF aka NN deviders\Neural Network CORE">
+      <UniqueIdentifier>{04764451-c9fe-48b7-9e4c-e674bf3c5d89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Testbed for Neural Net\Structure of OBJ\EMF aka NN deviders\Neural Network CORE\neuron layer">
+      <UniqueIdentifier>{877b932b-e8a6-405a-aa29-9fc41f274299}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Testbed for Neural Net\Structure of OBJ\EMF aka NN deviders\Neural Network CORE\neuron layer\Neuron OBJ">
+      <UniqueIdentifier>{b178b329-794b-46d6-b756-13d1adeb2f64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Testbed for Neural Net\Structure of OBJ\EMF aka NN deviders\Neural Network CORE\synapse layer">
+      <UniqueIdentifier>{0e59135b-a780-4b3f-b675-a2a928370e35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Testbed for Neural Net\Structure of OBJ\EMF aka NN deviders\Neural Network CORE\synapse layer\Synapse OBJ">
+      <UniqueIdentifier>{181ea9b0-da76-4174-b36b-82a5fd34531f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Testbed for Neural Net\nonSpecificFiles\Neural Net File Reading">
+      <UniqueIdentifier>{da5d7f83-dfc5-4357-a835-6da50388ae77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="EngineBits">
+      <UniqueIdentifier>{6f51432c-87d1-44d5-9c55-2230bb697dff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EngineBits\InputSystem">
+      <UniqueIdentifier>{b737eda8-cd08-48fb-889a-fa288b3ad167}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EngineBits\SceneFiles">
+      <UniqueIdentifier>{f02acf27-dc82-4ea5-a661-210029f396a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EngineBits\SceneFiles\Graphics">
+      <UniqueIdentifier>{bebf36a6-f376-4bb9-b843-b927c676ac41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EngineBits\SceneFiles\Graphics\Resources">
+      <UniqueIdentifier>{c8b17479-795c-4ef5-837d-3d4c49e95987}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Main Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Main Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LearningAITestbed.h">
+      <Filter>Testbed for Neural Net\Structure of OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="TestScene.h">
+      <Filter>EngineBits\SceneFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="EmulsionFeild.h">
+      <Filter>Testbed for Neural Net\Structure of OBJ\EMF aka NN deviders</Filter>
+    </ClInclude>
+    <ClInclude Include="enums.h">
+      <Filter>Testbed for Neural Net\nonSpecificFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="neuralnetFileReader.h">
+      <Filter>Testbed for Neural Net\nonSpecificFiles\Neural Net File Reading</Filter>
+    </ClInclude>
+    <ClInclude Include="NeuralNetwork.h">
+      <Filter>Testbed for Neural Net\Structure of OBJ\EMF aka NN deviders\Neural Network CORE</Filter>
+    </ClInclude>
+    <ClInclude Include="Neuron.h">
+      <Filter>Testbed for Neural Net\Structure of OBJ\EMF aka NN deviders\Neural Network CORE\neuron layer\Neuron OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="NodeLayer.h">
+      <Filter>Testbed for Neural Net\Structure of OBJ\EMF aka NN deviders\Neural Network CORE\neuron layer</Filter>
+    </ClInclude>
+    <ClInclude Include="Synapse.h">
+      <Filter>Testbed for Neural Net\Structure of OBJ\EMF aka NN deviders\Neural Network CORE\synapse layer\Synapse OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="SynapseLayer.h">
+      <Filter>Testbed for Neural Net\Structure of OBJ\EMF aka NN deviders\Neural Network CORE\synapse layer</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>EngineBits\SceneFiles\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="GameImplement.h">
+      <Filter>EngineBits\SceneFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="GLprimatives.h">
+      <Filter>EngineBits\SceneFiles\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadShaders.h">
+      <Filter>EngineBits\SceneFiles\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="pInputHandler.h">
+      <Filter>EngineBits\InputSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="pInputManager.h">
+      <Filter>EngineBits\InputSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>EngineBits\SceneFiles\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Main Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>EngineBits\SceneFiles\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>EngineBits\SceneFiles\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyxml2.h">
+      <Filter>Testbed for Neural Net\nonSpecificFiles\Neural Net File Reading</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.h">
+      <Filter>Testbed for Neural Net\nonSpecificFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="VMath.h">
+      <Filter>Testbed for Neural Net\nonSpecificFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="wonwonEngine.h">
+      <Filter>EngineBits</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LearningAITestbed.cpp">
+      <Filter>Testbed for Neural Net\Structure of OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Main Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TestScene.cpp">
+      <Filter>EngineBits\SceneFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="EmulsionFeild.cpp">
+      <Filter>Testbed for Neural Net\Structure of OBJ\EMF aka NN deviders</Filter>
+    </ClCompile>
+    <ClCompile Include="KeegHive.cpp">
+      <Filter>Main Files</Filter>
+    </ClCompile>
+    <ClCompile Include="neuralnetFileReader.cpp">
+      <Filter>Testbed for Neural Net\nonSpecificFiles\Neural Net File Reading</Filter>
+    </ClCompile>
+    <ClCompile Include="NeuralNetwork.cpp">
+      <Filter>Testbed for Neural Net\Structure of OBJ\EMF aka NN deviders\Neural Network CORE</Filter>
+    </ClCompile>
+    <ClCompile Include="Neuron.cpp">
+      <Filter>Testbed for Neural Net\Structure of OBJ\EMF aka NN deviders\Neural Network CORE\neuron layer\Neuron OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="NodeLayer.cpp">
+      <Filter>Testbed for Neural Net\Structure of OBJ\EMF aka NN deviders\Neural Network CORE\neuron layer</Filter>
+    </ClCompile>
+    <ClCompile Include="Synapse.cpp">
+      <Filter>Testbed for Neural Net\Structure of OBJ\EMF aka NN deviders\Neural Network CORE\synapse layer\Synapse OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="SynapseLayer.cpp">
+      <Filter>Testbed for Neural Net\Structure of OBJ\EMF aka NN deviders\Neural Network CORE\synapse layer</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>EngineBits\SceneFiles\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="GLprimatives.cpp">
+      <Filter>EngineBits\SceneFiles\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadShaders.cpp">
+      <Filter>EngineBits\SceneFiles\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="pInputHandler.cpp">
+      <Filter>EngineBits\InputSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="pInputManager.cpp">
+      <Filter>EngineBits\InputSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>EngineBits\SceneFiles\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>EngineBits\SceneFiles\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>EngineBits\SceneFiles\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml2.cpp">
+      <Filter>Testbed for Neural Net\nonSpecificFiles\Neural Net File Reading</Filter>
+    </ClCompile>
+    <ClCompile Include="VMath.cpp">
+      <Filter>Testbed for Neural Net\nonSpecificFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="wonwonEngine.cpp">
+      <Filter>EngineBits</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="KeegHive.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="KeegBoy.xml">
+      <Filter>Testbed for Neural Net\nonSpecificFiles\Neural Net File Reading</Filter>
+    </Xml>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Resources\SimpleFragShader.frag">
+      <Filter>EngineBits\SceneFiles\Graphics\Resources</Filter>
+    </None>
+    <None Include="..\Resources\SimpleVertShader.vert">
+      <Filter>EngineBits\SceneFiles\Graphics\Resources</Filter>
+    </None>
+    <None Include="..\Resources\triangles.frag">
+      <Filter>EngineBits\SceneFiles\Graphics\Resources</Filter>
+    </None>
+    <None Include="..\Resources\triangles.vert">
+      <Filter>EngineBits\SceneFiles\Graphics\Resources</Filter>
+    </None>
+  </ItemGroup>
+</Project>

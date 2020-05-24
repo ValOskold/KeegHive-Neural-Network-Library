@@ -1,0 +1,52 @@
+﻿  TestScene.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\deps\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(19): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.h(41): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(177): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(179): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(181): warning C4305: '+=': truncation from 'double' to 'float'
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(183): warning C4305: '+=': truncation from 'double' to 'float'
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(189): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(191): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(192): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(193): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(194): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(195): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(201): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(203): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(206): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(207): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(208): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(209): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(216): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(218): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(219): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(220): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(246): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(263): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(265): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(267): warning C4305: '+=': truncation from 'double' to 'float'
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(269): warning C4305: '+=': truncation from 'double' to 'float'
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(298): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(299): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(303): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(304): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(311): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(312): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(317): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(318): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(325): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(326): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(330): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(331): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(338): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(339): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(343): warning C4018: '<': signed/unsigned mismatch
+c:\devprojects\gannet\tryagainkeeghive\keeghive 11-8-18\keeghive\testscene.cpp(344): warning C4018: '<': signed/unsigned mismatch
+  KeegHive.vcxproj -> C:\DevProjects\GanNet\tryAgainKeegHive\KeegHive 11-8-18\Debug\KeegHive.exe

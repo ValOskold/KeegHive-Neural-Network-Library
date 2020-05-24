@@ -1,0 +1,21 @@
+Bias Neurons
+Dropout
+Backpropagation details
+andrej karpathy's stanferd lectures
+backpropagation gotchas
+'yes you should understand back propogation' article by A.K. stanford
+Nikolas Markou's article "The Black Magic of Deep Learning"
+
+Convolutional Neural Network
+Deep Belief Network
+Restricted Boltzmann Machine
+Deep Reinforcement Learning
+Deep Q Learning
+Hierarchical Temporal Memory
+Stacked Denoising Autoencoders
+
+Neural Network Archatecture
+The Writings of Christopher Olah
+
+Chris Olah's RNN LSTM tutorial
+DeepLearning J4 tutorial
